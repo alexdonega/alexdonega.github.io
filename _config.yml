@@ -8,26 +8,26 @@ lang: en
 timezone: # e.g. America/Sao_Paulo
 
 # SEO settings
-title: "Site Title" # Main title of your website
-tagline: "Your Tagline Here" # Subtitle displayed under the title
+title: "Alex Donega" # Main title of your website
+tagline: "Minhas Notas" # Subtitle displayed under the title
 description: >-
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A gente não tem a pretensão de ser perfeito e sim a obrigação de ser honesto e íntegro
 
 url: "https://yourusername.github.io" # Do not end with a '/'
 
 github:
-  username: yourusername # Your GitHub username
+  username: alexdonega # Your GitHub username
 
-twitter:
-  username: yourtwitterhandle # Your Twitter username
+Instagram:
+  username: donegaalex # Your Instagram profile
 
 social:
   name: Your Name Here # Your full name
-  email: your.email@example.com
+  email: alexdonega@gmail.com
   links:
-    - https://github.com/yourusername
-    # - https://www.linkedin.com/in/yourusername
-    # - https://twitter.com/yourtwitterhandle
+    - https://github.com/alexdonega
+    - https://www.linkedin.com/in/alexdonega
+    - https://www.instagram.com/donegaalex
 
 webmaster_verifications:
   google: 
@@ -60,7 +60,7 @@ theme_mode: # [light | dark] or leave blank for system preference
 
 cdn: # e.g. https://cdn.example.com
 
-avatar: "assets/img/avatar.png" # Path to your avatar image
+avatar: "assets/img/Alex Donega.jpg" # Path to your avatar image
 
 social_preview_image: # Path to default OG image
 
