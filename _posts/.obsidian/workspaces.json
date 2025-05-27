@@ -1,0 +1,735 @@
+{
+  "workspaces": {
+    "Blank Slate": {
+      "main": {
+        "id": "c4f7fdb608baf8e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "368e14e5e771bd35",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f91b0e1accaeef5b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ideaverse Pro Arrival"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "440b3841429709ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b208c03cadd231ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dddbab8b18fd423a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "77966b04a7f238ed",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:garden/cultivate",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 283.5
+      },
+      "right": {
+        "id": "7a43a6c530e72e44",
+        "type": "split",
+        "children": [
+          {
+            "id": "ea89fdbc5439f479",
+            "type": "tabs",
+            "dimension": 35.57692307692308,
+            "children": [
+              {
+                "id": "f76609bcc580577a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Ideaverse Pro Arrival"
+                }
+              },
+              {
+                "id": "66634c751bd9edef",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": true,
+                    "searchQuery": "lesson"
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "4f6e4ddebde66a86",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "90d026528dc7103b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Ideaverse Pro Arrival"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6a0abff8126affde",
+            "type": "tabs",
+            "dimension": 27.47252747252747,
+            "children": [
+              {
+                "id": "c29962650cb80fb8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "9ee0ac79a5b8f469",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6333645002305608,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Ideaverse Pro Arrival"
+                }
+              }
+            ]
+          },
+          {
+            "id": "8e15cd93a6a4be64",
+            "type": "tabs",
+            "dimension": 36.95054945054945,
+            "children": [
+              {
+                "id": "d535bd36dbc98e0b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Ideaverse Pro Arrival"
+                }
+              },
+              {
+                "id": "ae0aed29d208c352",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Ideaverse Pro Arrival"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Manage workspace layouts": true,
+          "switcher:Open quick switcher": false,
+          "command-palette:Open command palette": false,
+          "templates:Insert template": false,
+          "daily-notes:Open today's daily note": true,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": true,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "obsidian42-brat:BRAT": false,
+          "periodic-notes:Open today's daily note": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "f91b0e1accaeef5b",
+      "mtime": "2025-04-15T17:35:43-05:00"
+    },
+    "Default": {
+      "main": {
+        "id": "c4f7fdb608baf8e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "368e14e5e771bd35",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f91b0e1accaeef5b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ideaverse Pro Arrival"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "440b3841429709ed",
+        "type": "split",
+        "children": [
+          {
+            "id": "b208c03cadd231ee",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dddbab8b18fd423a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "77966b04a7f238ed",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:garden/cultivate",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "byModifiedTime"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 283.5
+      },
+      "right": {
+        "id": "7a43a6c530e72e44",
+        "type": "split",
+        "children": [
+          {
+            "id": "ea89fdbc5439f479",
+            "type": "tabs",
+            "dimension": 35.57692307692308,
+            "children": [
+              {
+                "id": "f76609bcc580577a",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Ideaverse Pro Arrival"
+                }
+              },
+              {
+                "id": "66634c751bd9edef",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": true,
+                    "searchQuery": "lesson"
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "4f6e4ddebde66a86",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "90d026528dc7103b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Ideaverse Pro Arrival"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6a0abff8126affde",
+            "type": "tabs",
+            "dimension": 27.47252747252747,
+            "children": [
+              {
+                "id": "c29962650cb80fb8",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "9ee0ac79a5b8f469",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": true,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6333645002305608,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Ideaverse Pro Arrival"
+                }
+              }
+            ]
+          },
+          {
+            "id": "8e15cd93a6a4be64",
+            "type": "tabs",
+            "dimension": 36.95054945054945,
+            "children": [
+              {
+                "id": "d535bd36dbc98e0b",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md",
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Ideaverse Pro Arrival"
+                }
+              },
+              {
+                "id": "ae0aed29d208c352",
+                "type": "leaf",
+                "pane-relief:history-v1": {
+                  "pos": 0,
+                  "stack": [
+                    {
+                      "state": "{}",
+                      "eState": "{}"
+                    }
+                  ]
+                },
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Ideaverse Pro Arrival.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Ideaverse Pro Arrival"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "workspaces:Manage workspace layouts": true,
+          "switcher:Open quick switcher": false,
+          "command-palette:Open command palette": false,
+          "templates:Insert template": false,
+          "daily-notes:Open today's daily note": true,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": true,
+          "obsidian-book-search-plugin:Create new book note": false,
+          "obsidian42-brat:BRAT": false,
+          "periodic-notes:Open today's daily note": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "f91b0e1accaeef5b",
+      "mtime": "2025-04-15T15:27:29-06:00"
+    }
+  },
+  "active": "Default"
+}

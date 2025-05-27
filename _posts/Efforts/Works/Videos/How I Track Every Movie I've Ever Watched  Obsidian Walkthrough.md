@@ -1,0 +1,63 @@
+---
+title: How I Track Every Movie I've Ever Watched | Obsidian Walkthrough
+collection:
+  - "[[YouTube Videos]]"
+  - "[[Works]]"
+medium:
+  - video
+published: 2023-12-01T00:00:00
+URLs:
+  - https://www.youtube.com/watch?v=mDFX9iKdIto
+---
+
+###### 1
+
+this is how I made my own Movie Database in obsidian everything you see in this video is proudly a part of my new product idea verse Pro you'll find the link in the description below all right this is one of my favorite collections movies what's your favorite movie or I don't really like that question I always want to know what are some of your favorite movies I feel like it's so much pressure to say what one's favorite movie is I've probably watched 2,000 movies it's really hard to say this one is number one now I've created a list I do have a movie ranked number one but it's not something I can say off the top of my head without doing all that work but before we get into the movies collection why even track this stuff like what are we doing all I want to say is don't listen to the slightly misguided slightly toxic productivity people out there thinking that stuff like this is a waste of time is it a waste of time to go to the Museum of Modern Art if you ever get a chance in New York City go
+
+###### 2
+
+on the escalator or the elevator to get to the top floor so you can check out Van Go night is it a waste of time to look at sra's pointless technique right next to it it does change location but when I went recently they were right next to each other are those activities of looking at non-moving images these these paintings or sculptures even uh from Picasso like where's the value in that isn't that just a waste of time that's not helping you get the next task done so why do we care because without that stuff life is hollow and that goes into entertainment like movies and TV and even books books and if we just think that every book has to be nonfiction better help me get there faster that mentality like what are we doing why are we living so just keep that in mind if somebody says that's a lot of wasted time did you get your task done today you know it that the world doesn't work that way it's it's really nonlinear and if we think that things are linear it's a one-way ticket to burnout and we're going to really
+
+###### 3
+
+miss the true adventure that we could go on okay I'm going to step off the sandbox and let's hop into one of my favorite collections which is the movies collection and it's in the atlas headspace so I can click on that and I love this one and this one has a lot going underneath the hood so if you want you can click on and see all the the craziness happening here but what we have is we have a wide view and this movie collection really takes advantage of my five plus rating scale so just five isn't enough so these top movies are five plus and you can see that 57 and above I have eight movies here and those movies I can just watch again and again for the most part this one's so good I almost can't watch it as often it's one of those strange things this one too but Groundhog Day I've probably watched the most out of all these so there's a certain rewatchability there's just a love of these movies even if they are hard to watch and you can see that that list then goes into these ones now
+
+###### 4
+
+not many other people might rate Planes Trains and Automobiles so so highly but that was a great family movie that we'd always watch over the fourth not over Thanksgiving and that's what this sort of movie collection this personal Movie Database can be for you it can be a place where you remember these these special moments you can be reminded of that as opposed to being force-fed the endless onslaught of whatever is new neomania it's called you know the the obsession with what's new this is a counterweight to neomania this allows you to remember the things that matter most I'm sharing so many of my favorite movies but I'm curious what are some of yours what is a movie you really like let me know in the comments below so with that in mind you can scroll through you can eventually you'll make this your own but it's really what you do number one Mary Poppins is another one there's a whole story behind that when when my dad forced forced us to watch it before going out to play with our friends and we we had to say afterwards it was a good movie and
+
+###### 5
+
+I really stubbornly did not want to say Mary Poppins was a good movie eventually my older brothers really pressured me into saying it so anyways but it turns out I love the movie and I love that memory of it right so that's just another example so movies books and series for one little side note here whatever tab you're on if you're using ID verse Pro and you have all my hotkeys then all you have to do is hit on Mac command shift W and it will close all those other tabs those tabs are gone now we can just focus on the tab that we're on clean things up a bit have you watched more than three of my videos have they been worth your time if so please consider subscribing it's the only way more people can find my channel in the YouTube algorithm in return I will do my best to keep delivering my best for you okay so what's happening here let's imagine you just watched a really cool movie or you're excited to watch a really cool movie like this weekend at the uh Chinese Theater in Hollywood and that movie just
+
+###### 6
+
+so happens to be Godzilla minus 0 or is it minus one anyways what you can do is hit command p and then hit add a movie and this will work or you can hit this other super fancy hotkey which is command option contrl M so that's what I typically do I'm like add a movie and I just go boom and I can start typing Godzilla minus and I can't even remember so let me just hit minus and there it is minus one and then boom like magic all almost all this stuff fills in a year came out year experienced well I haven't experienced it yet but year experience last that's something I want to bring up so I'm filling in some obsidian property metadata that matters this you'll see how it matters later but I have year experienced if I was really being accurate I'd say xpf year experienced first and then right beneath it you're experienced last so this is kind of nice to know like when did I last watch that movie it could be overkill for you but over the years it's just kind of an easy thing to do and then
+
+###### 7
+
+it starts to be a fun thing so um unwatched if I really cared to do the status and that's kind of that what a oh man what cool poster art that is and all this stuff was just pulled in in a split second using a lot of behind the scenes magic now let's just go back to movies so we can close we just added Godzilla minus one we can go back here and let's close my top movie shelf so I just twirl down that header now we can look at movies sorted by ratings so it's going to give us a similar view as the one that we looked at but not as cool but just letting you know it's here so we get the year poster the title my rating the year I experienced it and the year I experienced it last so now you can see that that piece of property that metadata comes into play and we can do all sorts of things what if we wanted to see the people and the genre that they're in and again all this stuff is being pulled in automatically but it doesn't really look cool
+
+###### 8
+
+for example it doesn't look cool here it look like a mess you just have to fill in a few and then you're good and then and if I want to group this I I can add groups here so a little reminder and this is covered in the standard in the light standards of classification video what these are about but long story short your type is the most General so is it a movie or is it a series like a TV series next genre is a little bit more specific they're generally agreed upon genres or categories so genre sometimes is category it's that same thing they're generally agreed upon and then we have group group is for you it's the most personal that is going to allow all sorts of sorting goodness later on whenever it makes sense for you in this case I'm going to leave it blank I don't really care about that stuff at this point but eventually as you'll see I did group a few movies into some cool cool list so you'll see those in a second but yeah like if I'm looking at this dayto day maybe I just close
+
+###### 9
+
+it and then cool really big poster actually that's a really big poster then I'll just go ahead and start typing below my thoughts ideas whatever so many great things here so we can close I'll close the Matrix but we can see that's it's pulling in the people involved it's showing the genre right there how cool is all that and depending on how deep you go these can all be mini collections that's overkill for me even but you could do that if you like what you're seeing it's like probably less than 1% of the value you'll get in idea verse Pro I am so excited for what it's going to do for the world of Knowledge Management and you can learn more by clicking the link in the description below all right now there's some extra ones these are Works in progress so okay so now I have shows sorted by that show group I was talking about Groundhog Day so Groundhog Day is a genre in of itself these days so it's a a group that I want to create there's a way that everything everywhere all at once kind of fits that mold and
+
+###### 10
+
+so does this series Russian doll there are more but those are just a few and then my tongue and cheek favorite fun one is Max testosterone and and I actually I love these movies they're so fun they're just so fun um Predator is super underrated everyone and if you haven't seen rrr wow it will blow your mind that is to the max that's all I can say so how great to have this lineup and you can have a different lineup too maybe you want to track adaptations movie adaptations so this started as a book this was based off of Hamlet the Warriors is based off of The Odyssey and ran ran is based off of King Lear I mean like I don't know that's all really cool it's just really cool to be able to track these things down and when you see them I'll just kind of reiterate what I've been saying let's just go into rrr and we can see the show group has Max testosterone and you can give it any show group there aren't too many like I have courtroom courtroom is a nice it's not going to show up as
+
+###### 11
+
+a genre usually it won't but you still might want to track that you want might want to see my cousin Vinnie right right next to a Few Good Men so you can do a lot of fun things with this movies as you can tell I love the movies collection you can do so much with it but it t it took a lot of under the hood tinkering to get this in form for you so I hope you enjoy take it as you go take it slowly but just know it's you're a hotkey away from adding a movie and you can do the fancy hotkey where I hold down three and then I hit M or you can do the easier hotkey which I hit command p and then start typing movie there it is and then just type your movie and Magic so there you have it folks so if you want to create your own Movie Database here's what you need to know first you have to install a plug-in called quick ad so I'll go to the settings Community plugins and I already have it installed but it's called quick ad and it's
+
+###### 12
+
+by Christian Boger Bach whan and this thing is phenomenal it's pretty intense it is pretty intense so I'm not going to walk through all the details because frankly I don't know if I could make it through the tutorials properly there are two tutorials one from Christian himself and then one from actually the CEO now of obsidian capano so link details to both of those in the description below so if we go over to Quick ad you can see that there are these settings and if they had the lightning bolt that's yellow that means when I hit command or contrl P the command pallet I'll be able to find those so I just typed movie and there you see quick ad or if I just type quick ad let's see what shows up and you can see that four show up here so add a movie add a series I even have add a daily note but those are the two that I want to focus on so there's a lot that you can do if you want to set this movie database up yourself or you can get idea verse Pro and everything will work
+
+###### 13
+
+right out of the box but that being said the links the tutorials in the description below can help you get a lot closer to having your own Movie Database and finally if you want to learn more about what an idea verse can do for you you should totally watch this video the start in a series that you'll absolutely love and until then stay connected

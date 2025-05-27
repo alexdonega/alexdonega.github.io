@@ -1,34 +1,89 @@
 {
+  "installedVersion": "1.0.0-beta1",
+  "activeCalendarSet": "Default",
   "showGettingStartedBanner": true,
   "hasMigratedDailyNoteSettings": true,
-  "hasMigratedWeeklyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": true,
+  "calendarSets": [
+    {
+      "day": {
+        "enabled": true,
+        "format": "",
+        "folder": "Calendar/Days",
+        "openAtStartup": false,
+        "templatePath": "x/Templates/Daily Template (First Light, Last Light).md"
+      },
+      "week": {
+        "enabled": true,
+        "format": "YYYY-MM-[w]ww",
+        "folder": "Calendar/Days",
+        "openAtStartup": false,
+        "templatePath": "x/Templates/Daily Template (First Light, Last Light).md"
+      },
+      "month": {
+        "enabled": false,
+        "format": "",
+        "folder": "Calendar/Days",
+        "openAtStartup": false,
+        "templatePath": "x/Templates/Daily Template (First Light, Last Light).md"
+      },
+      "quarter": {
+        "enabled": false,
+        "format": "",
+        "folder": "Calendar",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "year": {
+        "enabled": false,
+        "format": "",
+        "folder": "Calendar",
+        "openAtStartup": false,
+        "templatePath": ""
+      },
+      "id": "Default",
+      "ctime": "2022-04-26T16:19:37-07:00"
+    },
+    {
+      "day": {
+        "folder": "",
+        "enabled": false
+      },
+      "week": {},
+      "month": {},
+      "quarter": {},
+      "year": {},
+      "id": "Reliable Human",
+      "ctime": "2023-05-25T20:22:55-07:00"
+    }
+  ],
+  "enableTimelineComplication": true,
   "daily": {
-    "folder": "CALENDAR",
-    "template": "TEMPLATE/DAILY-CALENDAR-TEMPLATE.md",
-    "enabled": true,
-    "format": "YYYY-MM-DD"
+    "folder": "Calendar/2022",
+    "enabled": true
   },
   "weekly": {
-    "format": "",
-    "template": "SYSTEM/TEMPLATE/FORMAT/template_weekly_note.md",
-    "folder": "Calendar/WEEKLY",
-    "enabled": false
+    "format": "YYYY-MM-DD-[w]ww",
+    "folder": "Calendar/2022",
+    "template": "",
+    "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "System/TEMPLATE/FORMAT/CALENDAR/template_month_note.md",
-    "folder": "Calendar/MONTHLY",
-    "enabled": false
+    "template": "",
+    "folder": "Calendar/2022/Monthly",
+    "enabled": true
   },
   "quarterly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "",
+    "enabled": true
   },
   "yearly": {
     "format": "",
     "template": "",
     "folder": "",
-    "enabled": false
+    "enabled": true
   }
 }

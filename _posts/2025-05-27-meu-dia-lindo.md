@@ -1,12 +1,12 @@
 ---
+tags:
+  - started
 title: Meu Dia Lindo
 description: Aplicar a Metodologia Skate para Carro para criar campanhas de marketing evolutivas para o Neotriad, priorizando vendas diretas via WhatsApp e escalando progressivamente com landing pages, páginas de vendas e webinars.
 date: 2025-05-27 12:48:34
 author: Alex
 categories:
   - Blogging
-tags:
-  - started
 pin: true
 image: assets/img/2.png
 math: true

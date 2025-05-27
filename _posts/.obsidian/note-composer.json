@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": false,
+  "replacementText": "link",
+  "template": "x/Templates/My/Template, Note Refactor"
+}

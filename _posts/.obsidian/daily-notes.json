@@ -1,5 +1,4 @@
 {
-  "format": "YYYY-MM-DD HH:mm:ss Z",
-  "folder": "CALENDAR",
-  "template": "TEMPLATE/DAILY-CALENDAR-TEMPLATE"
+  "folder": "Calendar/Days",
+  "template": "x/Templates/Daily Template (First Light, Last Light)"
 }

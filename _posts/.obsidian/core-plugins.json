@@ -13,9 +13,9 @@
   "templates": true,
   "note-composer": true,
   "command-palette": true,
-  "slash-command": false,
+  "slash-command": true,
   "editor-status": true,
-  "bookmarks": true,
+  "bookmarks": false,
   "markdown-importer": false,
   "zk-prefixer": false,
   "random-note": false,
@@ -23,9 +23,10 @@
   "word-count": true,
   "slides": false,
   "audio-recorder": false,
-  "workspaces": false,
+  "workspaces": true,
   "file-recovery": true,
   "publish": false,
-  "sync": true,
-  "webviewer": false
+  "sync": false,
+  "webviewer": false,
+  "starred": true
 }

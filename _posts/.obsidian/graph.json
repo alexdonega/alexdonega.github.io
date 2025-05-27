@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Atlas/Dots",
+      "color": {
+        "a": 1,
+        "rgb": 6084302
+      }
+    },
+    {
+      "query": "path:Home Pro.md  ",
+      "color": {
+        "a": 1,
+        "rgb": 14406656
+      }
+    },
+    {
+      "query": "path:Home Pro Basic.md  ",
+      "color": {
+        "a": 1,
+        "rgb": 14406656
+      }
+    },
+    {
+      "query": "[\"collection\":Collections]",
+      "color": {
+        "a": 1,
+        "rgb": 14902475
+      }
+    },
+    {
+      "query": "[\"collection\":Maps]",
+      "color": {
+        "a": 1,
+        "rgb": 9338339
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.32618607516944,
+  "lineSizeMultiplier": 0.517805642633229,
+  "collapse-forces": false,
+  "centerStrength": 0.488777396355955,
+  "repelStrength": 15.3578030102984,
+  "linkStrength": 0.67318017780125,
+  "linkDistance": 203,
+  "scale": 0.06425522484360809,
+  "close": true
+}

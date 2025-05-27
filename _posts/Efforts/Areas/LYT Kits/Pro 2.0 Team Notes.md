@@ -1,0 +1,97 @@
+---
+up: []
+related: []
+created: "2025-04-04"
+---
+
+
+
+
+- [ ] Fine tune the four wayfinders for Ideaverse
+- [ ] Set up the 101 experience
+- [ ] Set up the 201 experience
+- [ ] Set up the 301 experience
+- [x] Time to get ACE pack into form.
+- [x] Then get the ARC pack into form.
+- ---
+- [x] Reviews needs examples and a template or two 
+- [x] Works has examples now but needs a template and clean workflow
+- [x] add OFS high level notes
+- [x] Add pack for Notemaking Mastery
+- [ ] **@John** — Fix `Add a Movie` QuickAdd functionality. Basically, it's looking at the wrong folder `x/x/Scripts` instead of the new `x/x/Scripts`.
+	- [ ] Nick to attempt to add manual to his version.
+- [ ] Update tags
+	- [ ] Consider what to do, if anything, about the `output/` tags. I probably should just get rid of them so that future "works" can have a clean slate. 
+	- [x] note to garden
+		- [x] Clean up the ARC dataview notes that will be affected
+- [x] Place online lesson structure in [[Ideaverse Pro Checklist]]
+	- [x] Place Mon Apr 7 version
+	- [x] Update the lesson structure
+- [x] Clean up Callouts
+	- [x] Home Pro
+	- [x] Templates
+	- [x] Collections
+- **New Wayfinders**
+	- Wayfinders EVERYWHERE
+- ---
+- [x] Add the Home Wayfinder
+	- [x] New notes: Home
+- [x] Add the Ideaverse Wayfinder
+- [x] Add the Efforts & Projects Wayfinder
+	- [x] New notes: Areas, Projects, Active Projects, Simmering Projects, Sleeping Projects.
+- [x] Add a new Maps Wayfinder
+- [ ] Add the LYT 101 Orientation Wayfinder
+- [ ] Add the LYT 201 Ideation Wayfinder
+- [ ] Add the LYT 301 Organization Wayfinder
+- Note Updates
+	- Home Notes
+	    - [x] [[Home]]: TRANSFERRED
+	    - [x] [[Home Pro]]: TRANSFERRED
+	    - [x] [[Home Pro Basic]]: UPDATED
+- Ideaverse Pro Wayfinders
+	- [x] [[Ideaverse Pro Arrival]]: TRANSFERRED
+	- [x] [[Ideaverse Pro Hangar]]: TRANSFERRED
+	- [x] [[Ideaverse Pro Checklist]]: TRANSFERRED
+	- [x] [[Ideaverse Pro Index]]: TRANSFERRED
+  - LYT 101: Orientation
+    - [[Why am I here]]: TRANSFERRED
+    - What is LYT
+    - [[Is LYT For Me]]:
+    - How do I start
+    - [[LYT Glossary]]:
+  - LYT 201: Ideation
+  - LYT 301: Organization
+  - x
+    - Packs
+      - ACE Folder Pack
+        - [[+ ACE Pack]]:
+    - Templates
+      - [[Base Template (Templater)]]: TRANSFERRED
+    - Visuals
+      - Images
+        - [[sensemaking-archetypes-clean.png]]: TRANSFERRED
+- Calendar-based notes
+  - [x] Add [[Calendar Activity Log (CAL)]]
+    - [x] This requires example notes to be added.
+  - [x] Add [[Records]]
+    - [x] This requires example notes to be added.
+  - [x] Stress-test the Records folder.
+    - [x] I've identified new, exciting time-based ways of using the ideaverse with special views like [[Calendar Activity Log (CAL)]] and [[Records]].
+    - [x] Attempt to add a QuickAdd for Records.
+      - [x] 2025-04-01 Update: Mostly there, but need to crack the filename.
+        - [x] Then build out for 3-7 record types.
+- Other Note Updates
+	- [[x/Templates/Templates]]: Removed callouts. Important note to manage all templates. And also to see the connection between templates and collections.
+	- [[Collections]]: Removed callouts. Deemphasized fancy to emphasize ease of use.
+- Plugins Updates
+	- Supercharged Links
+	- Make sure everyone has the `lesson` property settings dialed in. Remember this plugin is controlled by "Style Settings" and also generates its own snippet. Very tricky to dial in between vaults.
+  - Templater
+    - Got the base [[templater]] `x/Templates/Base Templater Template.md` working,
+- Hotkey Changes
+	- Change `Insert Template` from `cmd-shift-s` to `cmd-e`
+	- `Toggle reading view` no longer `cmd-e`
+- Theme Updates
+  - [x] Need to figure out how to fix the Rainbow folders. The "Efforts" blue here is too dark and not the teal shade it needs to be. _Asking team..._
+	- The "Soft Paper" look while in the Minimal theme is controlled by Style Settings.
+		- x Try to fix the super-faded non-selected pane icons (same as the Vault title, I believe). _Asking team..._

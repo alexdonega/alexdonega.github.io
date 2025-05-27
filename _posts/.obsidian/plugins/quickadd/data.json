@@ -1,18 +1,20 @@
 {
   "choices": [
     {
-      "id": "57f97def-1e94-4eda-bd47-6ee8e6a33540",
-      "name": "new-note",
+      "id": "294bcfa4-2cef-484e-97a7-18bca5844a54",
+      "name": "Add Dot: 💬 Quote",
       "type": "Template",
       "command": true,
-      "templatePath": "TEMPLATE/POST-TEMPLATE.md",
+      "templatePath": "x/Templates/Quotes Template.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{date}}-{{value}}"
+        "format": "{{VALUE:What is the quote?}}"
       },
       "folder": {
-        "enabled": false,
-        "folders": [],
+        "enabled": true,
+        "folders": [
+          "Atlas/Dots/Quotes"
+        ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
@@ -26,32 +28,494 @@
       "openFile": true,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "85806e33-9416-4e31-bdab-7c4e657a555b",
+      "name": "Add Dot: 👤 Person",
+      "type": "Template",
+      "command": true,
+      "templatePath": "x/Templates/People Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:What is their name?}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Atlas/Dots/People"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "09a61954-7f83-493f-ac4f-4f54642eb617",
+      "name": "Add Dot: ✂️ Clipping",
+      "type": "Template",
+      "command": true,
+      "templatePath": "x/Templates/Clippings Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:What is thing you are clipping?}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Atlas/Sources/Clippings"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "e079d23e-f19b-47ee-acc4-73aa029484f5",
+      "name": "Add Record: 🎪 Event",
+      "type": "Template",
+      "command": true,
+      "templatePath": "x/Templates/Event Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}} {{VALUE:Event Name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Calendar/Records/Events"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "f74abba4-03f4-43c2-8921-872693cc0620",
+      "name": "Add Record: 💡 Idea",
+      "type": "Template",
+      "command": true,
+      "templatePath": "x/Templates/Idea Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}} {{VALUE:Idea to Record}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Calendar/Records/Ideas"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "ceedb3d4-0987-46bb-9378-4b79e42ccf59",
+      "name": "Add Record: ☎️ Meeting",
+      "type": "Template",
+      "command": true,
+      "templatePath": "x/Templates/Meetings Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}} {{VALUE:Meeting Name}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Calendar/Records/Meetings"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "83c74a38-34f8-4bd9-9778-c73dd123bdfa",
+      "name": "Add Record: 🌈 Nice Thing",
+      "type": "Template",
+      "command": true,
+      "templatePath": "x/Templates/Nice Things Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}} {{VALUE:Nice thing that happened}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Calendar/Records/Nice Things"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "f8385498-a010-46a3-bb6a-e8cd2810fb8a",
+      "name": "Add Effort: Work",
+      "type": "Template",
+      "command": true,
+      "templatePath": "x/Templates/Works Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:What is the new work in progress?}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Efforts/Works"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "bfe31764-280f-4ac0-abbb-3f06f5bad909",
+      "name": "Add to: Daily Note",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Calendar/Days/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "x/Templates/Daily Template (First Light, Last Light).md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "- `{{DATE:h:mm A}}`: {{VALUE}}\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# Freewrite",
+        "insertAtEnd": false,
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "5649223e-bae9-493d-bfaa-5d244b198d26",
+      "name": "Add a Movie",
+      "type": "Macro",
+      "command": true,
+      "macroId": "24f0d802-c3c9-4d02-bcbf-f9b4b650001e"
+    },
+    {
+      "id": "0eab287e-6233-4045-9e3d-9987c585198a",
+      "name": "Add a Series",
+      "type": "Macro",
+      "command": true,
+      "macroId": "c61b435b-1556-4a1b-bd67-bd352d469ab3"
+    },
+    {
+      "id": "b0091dfb-e4a5-4c77-8020-f121ec411482",
+      "name": "Movie Template (QuickAdd)",
+      "type": "Template",
+      "command": false,
+      "templatePath": "x/Templates/Movie Template (QuickAdd).md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:fileName}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Atlas/Sources/Shows"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "c1a48994-a6a3-43af-bebd-db1b0fbe163a",
+      "name": "Series Template (QuickAdd)",
+      "type": "Template",
+      "command": false,
+      "templatePath": "x/Templates/Series Template (QuickAdd).md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:fileName}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Atlas/Sources/Shows"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "e6abfeed-14e5-4c30-8180-a8441704cbc4",
+      "name": "Add Aula",
+      "type": "Template",
+      "command": true,
+      "templatePath": "x/Templates/aula.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Aula - {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Atlas/Sources/Aula"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
-  "macros": [],
+  "macros": [
+    {
+      "name": "Find a Movie",
+      "id": "24f0d802-c3c9-4d02-bcbf-f9b4b650001e",
+      "commands": [
+        {
+          "name": "movie",
+          "type": "UserScript",
+          "id": "f5c533af-3a81-44a0-a791-c1de4ed88fb7",
+          "path": "x/x/Scripts/movie.js",
+          "settings": {
+            "OMDb API Key": "7edadcce"
+          }
+        },
+        {
+          "name": "Add Movie Template",
+          "type": "Choice",
+          "id": "0ae40023-bb86-42c7-9581-042fe62afb36",
+          "choiceId": "b0091dfb-e4a5-4c77-8020-f121ec411482"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Find a Series",
+      "id": "c61b435b-1556-4a1b-bd67-bd352d469ab3",
+      "commands": [
+        {
+          "name": "movie",
+          "type": "UserScript",
+          "id": "d97537e3-7cb6-4d9b-99f0-e6f62c95de0d",
+          "path": "x/x/Scripts/movie.js",
+          "settings": {
+            "OMDb API Key": "7edadcce"
+          }
+        },
+        {
+          "name": "Add Series Template (the QuickAdd one)",
+          "type": "NestedChoice",
+          "id": "2c7b7b53-825a-4b13-b953-e1c02bf10595",
+          "choice": {
+            "id": "03cad2dc-fcf9-4482-b6a9-65e168df2e20",
+            "name": "Add Series Template (the QuickAdd one)",
+            "type": "Template",
+            "command": false,
+            "templatePath": "x/Templates/Series Template (QuickAdd).md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{VALUE:fileName}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "Atlas/Sources/Shows"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": false
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Increment the file name",
+            "setFileExistsBehavior": false
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Summarize Book Note",
+      "id": "af3574d9-fc95-4e51-9fb0-6c504c7d07c3",
+      "commands": [
+        {
+          "name": "Summarize Book Note",
+          "type": "Choice",
+          "id": "3a8be4e6-be7d-442f-94f1-ad7e9f176ae5",
+          "choiceId": "f3dfc4e2-5b5a-432d-a964-ba9222288ec7"
+        },
+        {
+          "name": "AI Assistant",
+          "type": "AIAssistant",
+          "id": "efc26d8c-21bd-4808-a839-21455f5c20a1",
+          "model": "Ask me",
+          "systemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+          "outputVariableName": "summary",
+          "promptTemplate": {
+            "enable": true,
+            "name": "Prompt - Summarize Book Notes.md"
+          },
+          "modelParameters": {
+            "temperature": 1,
+            "top_p": 1,
+            "frequency_penalty": 0,
+            "presence_penalty": 0
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Add Dot: Quote. Then rank it.",
+      "id": "9b399369-a12c-4dd8-b7de-dbe3c821f39d",
+      "commands": [
+        {
+          "name": "Add Dot: Quote",
+          "type": "Choice",
+          "id": "69de1ce4-c839-4428-9c04-d3a58b612597",
+          "choiceId": "294bcfa4-2cef-484e-97a7-18bca5844a54"
+        },
+        {
+          "name": "Edit file property",
+          "type": "Obsidian",
+          "id": "88c6038a-e5ea-44b0-9734-699e24232612",
+          "commandId": "markdown:edit-metadata-property"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
   "inputPrompt": "single-line",
   "devMode": false,
-  "templateFolderPath": "TEMPLATE",
+  "templateFolderPath": "x/Templates",
   "announceUpdates": true,
   "version": "1.13.3",
-  "disableOnlineFeatures": true,
+  "disableOnlineFeatures": false,
   "enableRibbonIcon": false,
   "ai": {
     "defaultModel": "Ask me",
     "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
-    "promptTemplatesFolderPath": "",
+    "promptTemplatesFolderPath": "Atlas/Utilities/Prompts",
     "showAssistant": true,
     "providers": [
       {
         "name": "OpenAI",
         "endpoint": "https://api.openai.com/v1",
-        "apiKey": "",
+        "apiKey": "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",
         "models": [
-          {
-            "name": "text-davinci-003",
-            "maxTokens": 4096
-          },
           {
             "name": "gpt-3.5-turbo",
             "maxTokens": 4096
@@ -77,16 +541,8 @@
             "maxTokens": 128000
           },
           {
-            "name": "gpt-4-turbo",
-            "maxTokens": 128000
-          },
-          {
-            "name": "gpt-4o",
-            "maxTokens": 128000
-          },
-          {
-            "name": "gpt-4o-mini",
-            "maxTokens": 128000
+            "name": "text-davinci-003",
+            "maxTokens": 4096
           }
         ]
       }
