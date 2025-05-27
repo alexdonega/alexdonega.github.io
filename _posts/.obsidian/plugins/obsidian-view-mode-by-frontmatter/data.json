@@ -1,0 +1,29 @@
+{
+  "debounceTimeout": 0,
+  "ignoreOpenFiles": true,
+  "ignoreForceViewAll": true,
+  "folders": [
+    {
+      "folder": "TEMPLATE",
+      "viewMode": "obsidianEditingMode: source"
+    },
+    {
+      "folder": "CALENDAR",
+      "viewMode": "obsidianEditingMode: live"
+    },
+    {
+      "folder": "/",
+      "viewMode": "obsidianEditingMode: live"
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "Efforts/AREAS/Writing/von/conceitos/mapas-galaticos.md",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "",
+      "viewMode": ""
+    }
+  ]
+}
