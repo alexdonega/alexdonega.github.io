@@ -8,7 +8,7 @@
     "modifiedd": "date",
     "createdd": "date",
     "URLs": "multitext",
-    "date": "date",
+    "date": "text",
     "top": "multitext",
     "related": "multitext",
     "down": "multitext",

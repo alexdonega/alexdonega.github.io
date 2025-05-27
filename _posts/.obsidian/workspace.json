@@ -404,17 +404,17 @@
             "id": "2670cd91b550b944",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "2025-05-27-meu-dia-lindo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2025-05-27-meu-dia-lindo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-05-27-meu-dia-lindo\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2025-05-27-metodologia-skate-para-carro-neotriad",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-05-27-metodologia-skate-para-carro-neotriad\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":27},\"to\":{\"line\":37,\"ch\":27}},\"scroll\":0}"
                 },
                 {
                   "title": "New tab",
@@ -427,7 +427,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md",
+                "file": "x/Templates/post-blog-template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -442,11 +442,44 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-27-metodologia-skate-para-carro-neotriad"
+              "title": "post-blog-template"
+            }
+          },
+          {
+            "id": "c83af53a26f669cb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-27-a-casa"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -520,7 +553,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 35.57692307692308,
+        "dimension": 50.98039215686274,
         "children": [
           {
             "id": "f76609bcc580577a",
@@ -537,10 +570,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md"
+                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa.md"
               },
               "icon": "lucide-info",
-              "title": "Propriedades do arquivo 2025-05-27-metodologia-skate-para-carro-neotriad"
+              "title": "Propriedades do arquivo 2025-05-27-a-casa"
             }
           },
           {
@@ -619,7 +652,7 @@
       {
         "id": "6a0abff8126affde",
         "type": "tabs",
-        "dimension": 27.47252747252747,
+        "dimension": 24.509803921568626,
         "children": [
           {
             "id": "c29962650cb80fb8",
@@ -655,7 +688,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md",
+                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -683,7 +716,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 2025-05-27-metodologia-skate-para-carro-neotriad"
+              "title": "Gráfico de 2025-05-27-a-casa"
             }
           }
         ],
@@ -692,7 +725,7 @@
       {
         "id": "8e15cd93a6a4be64",
         "type": "tabs",
-        "dimension": 36.95054945054945,
+        "dimension": 24.509803921568626,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -709,7 +742,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md",
+                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -719,7 +752,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2025-05-27-metodologia-skate-para-carro-neotriad"
+              "title": "Links inversos para 2025-05-27-a-casa"
             }
           },
           {
@@ -749,7 +782,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274
+    "width": 286
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -768,15 +801,21 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2670cd91b550b944",
+  "active": "c83af53a26f669cb",
   "lastOpenFiles": [
-    "2025-05-27-meu-dia-lindo.md",
-    "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md",
+    "Atlas/Sources/Aula/Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo.md",
+    "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa.md",
     "Atlas/Sources/Aula/digital-garden-home.md",
+    "x/Templates/post-blog-template.md",
+    "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa-caiu.md",
+    "Efforts/Projects/Blog Alex Donega",
+    "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md",
+    "x/Templates/DAILY-CALENDAR-TEMPLATE.md",
+    "+/Sem título.md",
+    "2025-05-27-meu-dia-lindo.md",
     "+/Carmona Ventures.md",
     "Atlas/Sources/Aula/Pergunta e Resposta do Webinar Pro.md",
     "Atlas/Maps/Areas.md",
-    "Atlas/Sources/Aula/Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo.md",
     "Atlas/Maps/Architect.md",
     "Atlas/Maps/Add.md",
     "Atlas/Maps/Active Projects.md",
@@ -793,11 +832,6 @@
     "Atlas/Sources/Cursos/Webinar Pro.md",
     "Atlas/Dots/People/Bryan Blandy.md",
     "+/2025-05-12.md",
-    "x/Templates/aula.md",
-    "Atlas/Sources/Aula/Aula - caca.md",
-    "Aula - TEste.md",
-    "+/público frio.md",
-    "Atlas/Sources/Aula/História de Fundo.md",
     "x/Visuals/Anexos/Pasted image 20250504222656.png",
     "Atlas/Sources/Funil",
     "x/Visuals/Anexos/Roteiro Explicativo + Modelo de Script de Persuasão Webinar .xlsx",
@@ -814,7 +848,6 @@
     "pillars-of-ideaverse-8-bit-narrow.png",
     "Efforts/Areas/LYT",
     "Efforts/Areas/Household",
-    "Efforts/Areas/LYT Workshops",
     "x/Visuals/Anexos/flight-school-map.jpg",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",

@@ -371,6 +371,36 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "f0966df7-1b0d-445f-90d9-39fae5cedbef",
+      "name": "blog",
+      "type": "Template",
+      "command": true,
+      "templatePath": "x/Templates/post-blog-template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:}}-{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Efforts/Projects/Blog Alex Donega"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [
