@@ -4,7 +4,7 @@
 theme: jekyll-theme-chirpy
 
 # Language and timezone settings
-lang: en
+lang: pt-br
 timezone: # e.g. America/Sao_Paulo
 
 # SEO settings
@@ -22,7 +22,7 @@ Instagram:
   username: donegaalex # Your Instagram profile
 
 social:
-  name: Your Name Here # Your full name
+  name: Alex Donega # Your full name
   email: alexdonega@gmail.com
   links:
     - https://github.com/alexdonega
