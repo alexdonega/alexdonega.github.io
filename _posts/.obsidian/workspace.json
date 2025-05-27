@@ -446,45 +446,6 @@
             }
           },
           {
-            "id": "c83af53a26f669cb",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Digital Garden",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Digital Garden.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Digital Garden\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-27-a-casa"
-            }
-          },
-          {
             "id": "6c2bc3ea0224020b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -493,6 +454,24 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2025-05-27-meu-dia-lindo",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2025-05-27-meu-dia-lindo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-05-27-meu-dia-lindo\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "2019-08-08-write-a-new-post",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2019-08-08-write-a-new-post.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2019-08-08-write-a-new-post\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "digital-garden-home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/digital-garden-home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"digital-garden-home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":66.85267209642716}"
                 },
                 {
                   "title": "New tab",
@@ -505,7 +484,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Sources/Aula/digital-garden-home.md",
+                "file": "Atlas/Sources/Aula/Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -520,7 +499,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "digital-garden-home"
+              "title": "Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo"
+            }
+          },
+          {
+            "id": "4b4ed6831b8fa3fc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-27-skate-carro"
             }
           }
         ],
@@ -615,10 +627,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Atlas/Sources/Aula/digital-garden-home.md"
+                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md"
               },
               "icon": "lucide-info",
-              "title": "Propriedades do arquivo digital-garden-home"
+              "title": "Propriedades do arquivo 2025-05-27-skate-carro"
             }
           },
           {
@@ -733,7 +745,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atlas/Sources/Aula/digital-garden-home.md",
+                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -761,7 +773,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de digital-garden-home"
+              "title": "Gráfico de 2025-05-27-skate-carro"
             }
           }
         ],
@@ -787,7 +799,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Sources/Aula/digital-garden-home.md",
+                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -797,7 +809,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para digital-garden-home"
+              "title": "Links inversos para 2025-05-27-skate-carro"
             }
           },
           {
@@ -846,19 +858,23 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "6c2bc3ea0224020b",
+  "active": "4b4ed6831b8fa3fc",
   "lastOpenFiles": [
-    "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa.md",
-    "+/Digital Garden.md",
     "Atlas/Sources/Aula/Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo.md",
-    "Atlas/Sources/Aula/digital-garden-home.md",
+    "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
     "x/Templates/post-blog-template.md",
+    "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa.md",
+    "2025-05-27-meu-dia-lindo.md",
+    "2019-08-11-customize-the-favicon.md",
+    "2019-08-09-getting-started.md",
+    "2019-08-08-write-a-new-post.md",
+    "Atlas/Sources/Aula/digital-garden-home.md",
+    "+/Digital Garden.md",
     "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa-caiu.md",
     "Efforts/Projects/Blog Alex Donega",
     "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md",
     "x/Templates/DAILY-CALENDAR-TEMPLATE.md",
     "+/Sem título.md",
-    "2025-05-27-meu-dia-lindo.md",
     "+/Carmona Ventures.md",
     "Atlas/Sources/Aula/Pergunta e Resposta do Webinar Pro.md",
     "Atlas/Maps/Areas.md",
@@ -871,12 +887,8 @@
     "Atlas/Sources/Aula/Landing Page Estrutura.md",
     "x/Templates/Works Template.md",
     "Atlas/Sources/Aula/Anúncios de Alta Conversão.md",
-    "Atlas/Sources/Aula/Funil Webinar Invisível Automático - Checklist.md",
-    "+/aaaaaaaaaa.md",
     "x/Visuals/Anexos/Pasted image 20250504222636.png",
     "x/Visuals/Anexos/6 - Funil Webinar Invisível Automático.pdf",
-    "Atlas/Sources/Cursos/Webinar Pro.md",
-    "Atlas/Dots/People/Bryan Blandy.md",
     "x/Visuals/Anexos/Pasted image 20250504222656.png",
     "Atlas/Sources/Funil",
     "x/Visuals/Anexos/Roteiro Explicativo + Modelo de Script de Persuasão Webinar .xlsx",

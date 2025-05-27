@@ -1,4 +1,7 @@
 ---
+tags:
+  - getting
+  - started
 title: Primeiros Passos
 description: Este template permite criar um blog pessoal ou um site de notas públicas, com publicação automática via GitHub Pages e edição local usando o Obsidian.
 author: cotes
@@ -6,9 +9,6 @@ date: 2019-08-09 20:55:00 +0800
 categories:
   - Blogging
   - Tutorial
-tags:
-  - getting
-  - started
 pin: true
 media_subpath: /posts/20180809
 ---
