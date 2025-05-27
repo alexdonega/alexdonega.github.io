@@ -36,19 +36,6 @@ media_subpath: /posts/20180809
 
 ## Modelo Links internos e imagens
 
-```markdown
-[Some Link]({% post_url 2010-07-21-name-of-post %})
-```
-
-  
-```markdown
-
-![descrição](/assets/img/nome-da-imagem.png)
-
-```
-
-
-
 # 🔄 Publicação
 
   Quando finalizar. 
