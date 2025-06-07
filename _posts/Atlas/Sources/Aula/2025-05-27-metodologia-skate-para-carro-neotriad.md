@@ -19,7 +19,7 @@ date: 2025-05-27 12:50:39
 author: Alex
 categories:
   - Metodologia
-pin: 
+pin: "true"
 image: assets/img/2.png
 math: false
 mermaid: false

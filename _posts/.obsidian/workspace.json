@@ -8,235 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13b7497f820cdc8a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Estrutura de Tráfego para Webinar",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Estrutura de Tráfego para Webinar.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Estrutura de Tráfego para Webinar\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":376,\"ch\":0},\"to\":{\"line\":376,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Landing Page Estrutura",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Landing Page Estrutura.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Landing Page Estrutura\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":413,\"ch\":0},\"to\":{\"line\":413,\"ch\":0}},\"scroll\":380.94556497974656}"
-                },
-                {
-                  "title": "Landing Page Cases",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Landing Page Cases.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Landing Page Cases\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":326,\"ch\":0},\"to\":{\"line\":326,\"ch\":0}},\"scroll\":315.2265571753184}"
-                },
-                {
-                  "title": "Anúncios de Alta Conversão",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Anúncios de Alta Conversão.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Anúncios de Alta Conversão\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":60,\"ch\":0},\"to\":{\"line\":60,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Webinar Pro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Cursos/Webinar Pro.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Webinar Pro\"}",
-                  "eState": "{\"scroll\":47.18461491511418}"
-                },
-                {
-                  "title": "Script + Roteiro de Webinar 2.0",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Script + Roteiro de Webinar 2.0.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Script + Roteiro de Webinar 2.0\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Roteiro Explicativo - Modelo de Script de Persuasão para Webinar",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Roteiro Explicativo - Modelo de Script de Persuasão para Webinar.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Roteiro Explicativo - Modelo de Script de Persuasão para Webinar\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Webinar Pro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Cursos/Webinar Pro.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Webinar Pro\"}",
-                  "eState": "{\"scroll\":84}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático - Checklist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático - Checklist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível Automático - Passo a Passo Completo\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":436,\"ch\":0},\"to\":{\"line\":436,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível Automático\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático - Checklist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático - Checklist.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível - Passo a Passo Completo\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível Automático\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático - Checklist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático - Checklist.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível - Passo a Passo Completo\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível Automático\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Equação de Valor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Equação de Valor.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Equação de Valor\"}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível Automático\"}",
-                  "eState": "{\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Sources/Aula/Como se preparar para a gravação.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Como se preparar para a gravação"
-            }
-          },
-          {
-            "id": "47ab75a666eebe36",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático - Checklist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático - Checklist.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível Automático - Checklist\"}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Anúncios de Alta Conversão",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Anúncios de Alta Conversão.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Anúncios de Alta Conversão\"}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Como se preparar para a gravação",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Como se preparar para a gravação.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Como se preparar para a gravação\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "Anúncios de Alta Conversão",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Anúncios de Alta Conversão.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Anúncios de Alta Conversão\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "aula",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"x/Templates/aula.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"aula\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":37},\"to\":{\"line\":23,\"ch\":37}}}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático - Checklist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático - Checklist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível Automático - Checklist\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":192},\"to\":{\"line\":16,\"ch\":192}},\"scroll\":0}"
-                },
-                {
-                  "title": "História de Fundo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/História de Fundo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"História de Fundo\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":232,\"ch\":3},\"to\":{\"line\":232,\"ch\":3}},\"scroll\":0}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível Automático\"}",
-                  "eState": "{\"scroll\":293.2461500901442}"
-                },
-                {
-                  "title": "Webinar Pro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Cursos/Webinar Pro.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Webinar Pro\"}",
-                  "eState": "{\"scroll\":42.92307692307692}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático - Checklist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático - Checklist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível Automático - Checklist\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":23},\"to\":{\"line\":30,\"ch\":23}},\"scroll\":0}"
-                },
-                {
-                  "title": "Funil Webinar Invisível Automático",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Funil Webinar Invisível Automático.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Funil Webinar Invisível Automático\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":36.16412211147089}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Sources/Aula/Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo"
-            }
-          },
-          {
-            "id": "9a3b999a2f34dc3d",
+            "id": "696a099004040794",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -250,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Sources/Aula/Landing Page Estrutura.md",
+                "file": "Efforts/Projects/Blog Alex Donega/2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -265,111 +37,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Landing Page Estrutura"
+              "title": "2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery"
             }
           },
           {
-            "id": "60594b0c52ece644",
+            "id": "077db913add288f2",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Sem título",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/aaaaaaaaaa.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Sem título\"}",
-                  "eState": "{\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Entendendo o seu Mercado",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Entendendo o seu Mercado.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Entendendo o seu Mercado\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "Webinar Pro 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Webinar Pro 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Webinar Pro 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Webinar Pro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Cursos/Webinar Pro.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Webinar Pro\"}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Perguntas e Respostas do Webinar Pro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Perguntas e Respostas do Webinar Pro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Perguntas e Respostas do Webinar Pro\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":29},\"to\":{\"line\":16,\"ch\":29}},\"scroll\":0}"
-                },
-                {
-                  "title": "Entendendo o seu Mercado",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Entendendo o seu Mercado.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Entendendo o seu Mercado\"}",
-                  "eState": "{\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Sources/Aula/Pergunta e Resposta do Webinar Pro.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pergunta e Resposta do Webinar Pro"
-            }
-          },
-          {
-            "id": "7f27bbc6b1abf79c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Carmona Ventures",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+/Carmona Ventures.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Carmona Ventures\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Publicando suas notas do Obsidian pelo Digital Garden",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Publicando suas notas do Obsidian pelo Digital Garden.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Publicando suas notas do Obsidian pelo Digital Garden\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "2025-05-27-metodologia-skate-para-carro-neotriad",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Metodologia Skate para Carro - Neotriad\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":168,\"ch\":0},\"to\":{\"line\":168,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Anúncios de Alta Conversão",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Anúncios de Alta Conversão.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Anúncios de Alta Conversão\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
                 },
                 {
                   "title": "New tab",
@@ -382,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Sources/Aula/digital-garden-home.md",
+                "file": "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -397,146 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "digital-garden-home"
-            }
-          },
-          {
-            "id": "2670cd91b550b944",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "2025-05-27-metodologia-skate-para-carro-neotriad",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-05-27-metodologia-skate-para-carro-neotriad\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":27},\"to\":{\"line\":37,\"ch\":27}},\"scroll\":0}"
-                },
-                {
-                  "title": "New tab",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"beautitab-react-view\",\"state\":{},\"title\":\"New tab\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "x/Templates/post-blog-template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "post-blog-template"
-            }
-          },
-          {
-            "id": "6c2bc3ea0224020b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "2025-05-27-meu-dia-lindo",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2025-05-27-meu-dia-lindo.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-05-27-meu-dia-lindo\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
-                },
-                {
-                  "title": "2019-08-08-write-a-new-post",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2019-08-08-write-a-new-post.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2019-08-08-write-a-new-post\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "digital-garden-home",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/digital-garden-home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"digital-garden-home\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":66.85267209642716}"
-                },
-                {
-                  "title": "New tab",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"beautitab-react-view\",\"state\":{},\"title\":\"New tab\"}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atlas/Sources/Aula/Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo"
-            }
-          },
-          {
-            "id": "4b4ed6831b8fa3fc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-27-skate-carro"
+              "title": "2025-05-27-metodologia-skate-para-carro-neotriad"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -586,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Neotriad",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -597,7 +140,8 @@
               "title": "Procurar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -627,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md"
+                "file": "Efforts/Projects/Blog Alex Donega/2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery.md"
               },
               "icon": "lucide-info",
-              "title": "Propriedades do arquivo 2025-05-27-skate-carro"
+              "title": "Propriedades do arquivo 2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery"
             }
           },
           {
@@ -709,7 +253,7 @@
       {
         "id": "6a0abff8126affde",
         "type": "tabs",
-        "dimension": 24.509803921568626,
+        "dimension": 24.50980392156863,
         "children": [
           {
             "id": "c29962650cb80fb8",
@@ -745,7 +289,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
+                "file": "Efforts/Projects/Blog Alex Donega/2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -773,7 +317,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 2025-05-27-skate-carro"
+              "title": "Gráfico de 2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery"
             }
           }
         ],
@@ -782,7 +326,7 @@
       {
         "id": "8e15cd93a6a4be64",
         "type": "tabs",
-        "dimension": 24.509803921568626,
+        "dimension": 24.50980392156863,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -799,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
+                "file": "Efforts/Projects/Blog Alex Donega/2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -809,7 +353,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2025-05-27-skate-carro"
+              "title": "Links inversos para 2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery"
             }
           },
           {
@@ -839,7 +383,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286
+    "width": 350
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -854,29 +398,31 @@
       "obsidian42-brat:BRAT": false,
       "periodic-notes:Open today's daily note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "696a099004040794",
   "lastOpenFiles": [
+    "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md",
+    "Efforts/Projects/Blog Alex Donega/2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery.md",
     "Atlas/Sources/Aula/Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo.md",
-    "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
+    "Atlas/Sources/Aula/Landing Page Estrutura.md",
+    "Atlas/Sources/Aula/Pergunta e Resposta do Webinar Pro.md",
+    "Atlas/Sources/Aula/digital-garden-home.md",
     "x/Templates/post-blog-template.md",
+    "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
+    "Atlas/Sources/Aula/RE-CONSTRUÇÃO - Voltando ao Customer Discovery.md",
     "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa.md",
     "2025-05-27-meu-dia-lindo.md",
     "2019-08-11-customize-the-favicon.md",
     "2019-08-09-getting-started.md",
     "2019-08-08-write-a-new-post.md",
-    "Atlas/Sources/Aula/digital-garden-home.md",
     "+/Digital Garden.md",
     "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa-caiu.md",
     "Efforts/Projects/Blog Alex Donega",
-    "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md",
     "x/Templates/DAILY-CALENDAR-TEMPLATE.md",
     "+/Sem título.md",
     "+/Carmona Ventures.md",
-    "Atlas/Sources/Aula/Pergunta e Resposta do Webinar Pro.md",
     "Atlas/Maps/Areas.md",
     "Atlas/Maps/Architect.md",
     "Atlas/Maps/Add.md",
@@ -884,9 +430,6 @@
     "Atlas/Sources/Aula/Publicando suas notas do Obsidian pelo Digital Garden.md",
     "+/Canal Nonaka.md",
     "Atlas/Sources/Aula/Como se preparar para a gravação.md",
-    "Atlas/Sources/Aula/Landing Page Estrutura.md",
-    "x/Templates/Works Template.md",
-    "Atlas/Sources/Aula/Anúncios de Alta Conversão.md",
     "x/Visuals/Anexos/Pasted image 20250504222636.png",
     "x/Visuals/Anexos/6 - Funil Webinar Invisível Automático.pdf",
     "x/Visuals/Anexos/Pasted image 20250504222656.png",

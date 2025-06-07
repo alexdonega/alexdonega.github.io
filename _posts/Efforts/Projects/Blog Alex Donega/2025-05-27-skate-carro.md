@@ -1,7 +1,7 @@
 ---
 tags:
   - Metodologia
-title: Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo
+title: RE-CONSTRUÇÃO - Voltando ao Customer Discovery
 description: 
 date: 2025-05-27 14:54:26
 author: Alex Donega
