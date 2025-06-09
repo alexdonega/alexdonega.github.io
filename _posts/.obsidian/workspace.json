@@ -199,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "RE-CONSTRUÇÃO ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -229,7 +229,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -489,7 +490,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3a9b88d2f9fc0f71",
+  "active": "77966b04a7f238ed",
   "lastOpenFiles": [
     "Efforts/Projects/Blog Alex Donega/2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery.md",
     "Efforts/Projects/Blog Alex Donega/2025-06-08-Efetividade é um Compromisso com o Porquê.md",
