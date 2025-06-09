@@ -16,13 +16,37 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Projects/Blog Alex Donega/2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}}}"
+                },
+                {
+                  "title": "2025-05-27-skate-carro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-05-27-skate-carro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hotkeys Obsidian",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Sources/Aula/Hotkeys Obsidian.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hotkeys Obsidian\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Efforts/Projects/Blog Alex Donega/2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅).md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅)\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Efforts/Projects/Blog Alex Donega/2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅).md",
+                "file": "Efforts/Projects/Blog Alex Donega/2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +61,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅)"
+              "title": "2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery"
+            }
+          },
+          {
+            "id": "3a9b88d2f9fc0f71",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Efforts/Projects/Blog Alex Donega/2025-06-08-Efetividade é um Compromisso com o Porquê.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-08-Efetividade é um Compromisso com o Porquê"
             }
           },
           {
@@ -91,7 +148,8 @@
               "title": "2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,6 +209,25 @@
               "icon": "lucide-search",
               "title": "Procurar"
             }
+          },
+          {
+            "id": "43051b62a3caf91b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
@@ -182,10 +259,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Efforts/Projects/Blog Alex Donega/2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅).md"
+                "file": "Efforts/Projects/Blog Alex Donega/2025-06-08-Efetividade é um Compromisso com o Porquê.md"
               },
               "icon": "lucide-info",
-              "title": "Propriedades do arquivo 2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅)"
+              "title": "Propriedades do arquivo 2025-06-08-Efetividade é um Compromisso com o Porquê"
             }
           },
           {
@@ -300,7 +377,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Efforts/Projects/Blog Alex Donega/2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅).md",
+                "file": "Efforts/Projects/Blog Alex Donega/2025-06-08-Efetividade é um Compromisso com o Porquê.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -328,7 +405,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de 2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅)"
+              "title": "Gráfico de 2025-06-08-Efetividade é um Compromisso com o Porquê"
             }
           }
         ],
@@ -354,7 +431,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Efforts/Projects/Blog Alex Donega/2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅).md",
+                "file": "Efforts/Projects/Blog Alex Donega/2025-06-08-Efetividade é um Compromisso com o Porquê.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -364,7 +441,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅)"
+              "title": "Links inversos para 2025-06-08-Efetividade é um Compromisso com o Porquê"
             }
           },
           {
@@ -412,79 +489,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "775cc4b6ea0dca3f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "976e20572111fa15",
-        "type": "window",
-        "children": [
-          {
-            "id": "aebbfd69e362b80e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c54f78093a62d8ed",
-                "type": "leaf",
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": [
-                    {
-                      "state": "{}",
-                      "eState": "{}"
-                    }
-                  ]
-                },
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Atlas/Sources/Aula/Equação de Valor.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Equação de Valor"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -2526,
-        "y": 198,
-        "width": 856,
-        "height": 776,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f3cf202c746aee15",
+  "active": "3a9b88d2f9fc0f71",
   "lastOpenFiles": [
     "Efforts/Projects/Blog Alex Donega/2025-06-07-RE-CONSTRUÇÃO - Voltando ao Customer Discovery.md",
+    "Efforts/Projects/Blog Alex Donega/2025-06-08-Efetividade é um Compromisso com o Porquê.md",
+    "Atlas/Sources/Aula/Equação de Valor.md",
     "Efforts/Projects/Blog Alex Donega/2025-06-07-Os 4 Passos para Epifania (versão Alex Donega 😅).md",
+    "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
+    "Atlas/Sources/Aula/Hotkeys Obsidian.md",
+    "x/Visuals/Anexos/hotkeys.json",
     "Atlas/Sources/Aula/Perfil Detalhado - Alex Donega.md",
     "Atlas/Sources/Aula/Os 4 Passos para Epifania (versão Alex Donega 😅).md",
     "Atlas/Sources/Aula/2025-05-27-metodologia-skate-para-carro-neotriad.md",
-    "Atlas/Sources/Aula/Equação de Valor.md",
     "Atlas/Sources/Aula/Anúncios de Alta Conversão.md",
     "Atlas/Sources/Aula/Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo.md",
     "Atlas/Sources/Aula/Landing Page Estrutura.md",
     "Atlas/Sources/Aula/Pergunta e Resposta do Webinar Pro.md",
     "Atlas/Sources/Aula/digital-garden-home.md",
     "x/Templates/post-blog-template.md",
-    "Efforts/Projects/Blog Alex Donega/2025-05-27-skate-carro.md",
     "Atlas/Sources/Aula/RE-CONSTRUÇÃO - Voltando ao Customer Discovery.md",
     "Efforts/Projects/Blog Alex Donega/2025-05-27-a-casa.md",
     "2025-05-27-meu-dia-lindo.md",
@@ -497,8 +519,6 @@
     "x/Templates/DAILY-CALENDAR-TEMPLATE.md",
     "+/Sem título.md",
     "+/Carmona Ventures.md",
-    "Atlas/Maps/Areas.md",
-    "Atlas/Maps/Architect.md",
     "x/Visuals/Anexos/Pasted image 20250504222636.png",
     "x/Visuals/Anexos/6 - Funil Webinar Invisível Automático.pdf",
     "x/Visuals/Anexos/Pasted image 20250504222656.png",
@@ -516,7 +536,6 @@
     "x/Visuals/Anexos/pillars-of-ideaverse-8-bit-narrow2.png",
     "pillars-of-ideaverse-8-bit-narrow.png",
     "Efforts/Areas/LYT",
-    "Efforts/Areas/Household",
     "x/Visuals/Anexos/flight-school-map.jpg",
     "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",

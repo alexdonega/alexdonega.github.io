@@ -25,6 +25,7 @@ calendar: "[[2025-06-07]]"
 > 🔖 **Tags**: #CustomerDevelopment #LeanStartup #Validação #Metodologia #Carmona 
 > 📅 **Criado em**: `{{created}}`  
 > 📅 **Última edição**: `{{modified}}`
+
 Alex,
 
 Cara, você que me enche a paciência todo dia... 😂
