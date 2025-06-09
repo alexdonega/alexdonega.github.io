@@ -6,7 +6,7 @@ tags:
   - Landmark
   - Propósito
 title: Efetividade é um Compromisso com o Porquê
-description: Efetividade não é sobre fazer mais — é sobre lembrar por que fazemos.Não se trata de vender, escalar ou entregar por entregar.É sobre estar presente, servir com propósito e ser causa na transformação do outro.Quando atuamos a partir do porquê, o trabalho vira missão. E o impacto é real.
+description: Efetividade não é sobre fazer mais — é sobre lembrar por que fazemos. Não se trata de vender, escalar ou entregar por entregar. É sobre estar presente, servir com propósito e ser causa na transformação do outro. Quando atuamos a partir do porquê, o trabalho vira missão. E o impacto é real.
 date: 2025-06-08 22:14:01
 author: Alex Donega
 categories:
