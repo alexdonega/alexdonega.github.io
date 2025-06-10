@@ -1,8 +1,8 @@
 ---
 tags:
   - Metodologia
-title: RE-CONSTRUÇÃO - Voltando ao Customer Discovery
-description: 
+title: Metodologia Skate para Carro - Framework de Desenvolvimento Evolutivo
+description: Dominar a Metodologia Skate para Carro para desenvolvimento evolutivo de qualquer projeto ou produto, priorizando lançamentos rápidos e validação contínua com resultados reais.
 date: 2025-05-27 14:54:26
 author: Alex Donega
 categories:
